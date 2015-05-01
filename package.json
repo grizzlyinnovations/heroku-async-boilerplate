@@ -1,0 +1,10 @@
+{
+  "name": "fi-async-example",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "restify": "~3.0.2",
+    "jackrabbit": "~3.0.8"
+  },
+  "devDependencies": {}
+}
